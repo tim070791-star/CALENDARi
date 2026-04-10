@@ -25,14 +25,14 @@ img{
 
 h1{
   text-align:center;
-  color:blak;
+  color: blak;
   font-size:50px;
 }
 
 h2{
   font-size:40px;
   padding-top:20px;
-  color:blak;
+  color: blak;
   text-align:center;
 }
 
@@ -40,7 +40,7 @@ h3{
   font-size:30px;
   text-align:center;
   padding-top:20px;
-  color:blak;
+  color: blak;
 }
 
 p{
@@ -48,13 +48,13 @@ p{
   text-align:center;
   padding-top:10px;
   padding-bottom:10px;
-  text-color:blak;
+  text-color: blak;
   background:ffffff;
   margin-top:10px;
 }
 
 p{
-  color:blak;
+  color: blak;
   font-size:20px;
 }
 
